@@ -1,0 +1,86 @@
+* {
+  /* font-weight: 900; */
+  font-family: inherit;
+}
+
+:root {
+  --color: #FFD617;
+  --dimcolor: rgba(0, 0, 0, 0.5)
+}
+
+.cnav ul li a {
+  font-size: 15px;
+  color: black;
+}
+
+.clogo span {
+  color: var(--color);
+}
+
+.cnav ul li {
+  margin-left: 15px;
+}
+
+.hr {
+  display: block;
+  height: 3px;
+  width: 100%;
+}
+.customimage {
+  background: url(/public/images/bg_1.jpg.webp);
+}
+
+.storiesImg {
+  background: url(/public/images/image_2.jpg.webp);
+}
+.customimage,
+.storiesImg{
+  background-position: center;
+  background-size: cover;
+  height: 80vh;
+}
+
+
+
+.addInfo {
+  font-size: 45px;
+}
+
+.navbar-nav {
+  align-items: flex-start;
+}
+
+.homepage-hero .caddbtn {
+  background-color: black;
+  font-weight: 600;
+  color: white;
+}
+
+.homepage-hero .caddbtn:hover {
+  background-color: #fd5f00;
+  color: wheat;
+}
+
+
+/* Banner */
+.bannerImg {
+  background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  url(/public/images/about.webp);
+  height: 72vh;
+  background-position: center;
+  background-size: cover;
+}
+
+/* recent-stories-section */
+.recent-stories-section .readmorebtn {
+  font-size: 17px;
+  font-weight: 600;
+  color: #fd5f00;
+}
+
+
+@media only screen and (max-width:600px) {
+  .addInfo {
+    font-size: 40px;
+  }
+}
