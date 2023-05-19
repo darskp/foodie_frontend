@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import Navbar from "./navbar";
 import { useNavigate } from "react-router-dom";
 //axios - to manage the http request
 import axios from "axios"

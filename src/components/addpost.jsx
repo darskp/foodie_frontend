@@ -1,4 +1,4 @@
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import Banner from "./Banner";
 import { useState } from "react";
 import axios from "axios"
@@ -31,7 +31,7 @@ const AddPost = () => {
             <div className="container my-5">
                 <div className="row">
                     <div className="col-lg-6 col-sm-12 mb-5">
-                        <img src="../images/bg_1.jpg.webp" height="700px" width="100%" className="rounded-1" alt="Responsive image" />
+                        <img src="../images/bg_1.jpg.webp" height="700px" width="100%" className="rounded-1" alt="row" />
                     </div>
                     <div className="col-lg-6 col-sm-12 px-lg-4">
                         <h2>Add Post</h2>

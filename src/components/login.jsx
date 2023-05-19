@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
-import Navbar from "./navbar";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
@@ -28,7 +27,7 @@ const Login = () => {
 
         axios.post('http://localhost:4000/login', data)
             .then((res) => {
-                if (res.data.message == 'login successful'){
+                if (res.data.message === 'login successful'){
                     navigate('/home')
                 }else{
                 alert(res.data.message)

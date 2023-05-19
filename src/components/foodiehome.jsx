@@ -66,7 +66,7 @@ const Foodiehome = () => {
                         <div className="storiesImg col-lg-5 col-sm-12 p-5 position-relative">
                             <div className="ps-4 position-absolute bottom-0 mb-5 start-0">
                                 <span style={{ color: '#FFD617', display: 'block' }}>FOODS</span>
-                                <a href="#" className="fw-bld fs-1 btn ps-0 text-light">Tasty & Delicious Foods</a>
+                                <a href="home/food" className="fw-bld fs-1 btn ps-0 text-light">Tasty & Delicious Foods</a>
                             </div>
                         </div>
 

@@ -15,7 +15,7 @@ const SinglePost = () => {
             setPost(data);
         }
         fetchData()
-    }, [])
+    }, [params])
     let title = "Single Post";
     return (
         <div className="sp">

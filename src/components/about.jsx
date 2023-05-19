@@ -31,7 +31,7 @@ const About = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-6 col-sm-12 mb-5">
-                        <img src="../images/bg_1.jpg.webp" height="700px" width="100%" alt="Responsive image" />
+                        <img src="../images/bg_1.jpg.webp" height="700px" width="100%" alt="Responsive" />
                     </div>
                     <div className="col-lg-6 col-sm-12 px-lg-4 my-lg-4 my-sm-2">
                         <div className="">
