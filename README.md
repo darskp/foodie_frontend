@@ -29,7 +29,6 @@ It is a web-based application that allows users to share and explore different f
 - Posts stored in MongoDB with details like author, title, item summary, food image, and restaurant locations.
 
 ## Technologies Used
-- HTML
 - React
 - Node.js
 - Express
