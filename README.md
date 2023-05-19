@@ -1,4 +1,4 @@
-## FoodStories
+## Food Stories
 Demo video URL : [Click here](https://drive.google.com/file/d/1YzcxI8Q9PR_mNES_XRWtsIsMVc0-Tk5b/view?usp=sharing)
 
 ## Table of Contents
