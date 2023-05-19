@@ -32,7 +32,7 @@ It is a web-based application that allows users to share and explore different f
 - React
 - Node.js
 - Express
-- MongoDB
+- MongoDB Atlas
 
 ## Requirements
 - Node.js
