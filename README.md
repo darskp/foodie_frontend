@@ -13,7 +13,9 @@ Demo video URL : [Click here](https://drive.google.com/file/d/1YzcxI8Q9PR_mNES_X
 - [Useful Resources](#Useful-Resources)
 
 ## Introduction
-It is a web-based application that allows users to share and explore different food items and recipes. Users can sign up and log in to the platform, and their details will be stored in the backend. In the "Add post" section, users can add posts about their favorite food items, and these posts will be stored in MongoDB. Each post includes details such as the author, title, item summary, food image and restaurant locations.
+It is a web-based application that allows users to share and explore different food items and recipes. Users can sign up and log in to the platform, and their details will be stored in the backend. 
+
+In the "Add post" section, users can add posts about their favorite food items, and these posts will be stored in MongoDB. Each post includes details such as the author, title, item summary, food image and restaurant locations.
 
 ## Screenshot
 [![Demo Video](https://raw.githubusercontent.com/darskp/foodie_backend/main/Image.png)](https://drive.google.com/file/d/1YzcxI8Q9PR_mNES_XRWtsIsMVc0-Tk5b/view?usp=sharing)
